@@ -1,0 +1,4 @@
+10 Int X = 1
+15 PRINT X
+20 PRINT 10000
+25 PRINT (1 + 2) / 3 + 2 * 3
