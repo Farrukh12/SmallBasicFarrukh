@@ -17,6 +17,7 @@ public class Print extends Excute {
             } else {
                 System.out.println(line.substring(1, line.length() - 1));
             }
+
             return;
         }
         try {
